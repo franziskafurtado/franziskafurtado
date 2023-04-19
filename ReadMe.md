@@ -11,4 +11,4 @@ I'm always learning and my favorite interest areas are low-level programming, em
 
 I have always been a lover of computers and learning new things. :books:
 
-:two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate. 	:roller_skate:
+:two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate.
