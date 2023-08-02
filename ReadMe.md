@@ -1,7 +1,7 @@
 Welcome to my github profile!
 
 
-I'm Franziska Furtado, a developer curently working with Front End Web Development (mostly AngularJS) and SQL solution (PostgreSQL). :desktop_computer:
+I'm Franziska Furtado, a developer currently working with Front End Web Development (mostly AngularJS) and SQL solution (PostgreSQL). :desktop_computer:
 
 Hopefully I will be a computer engineer by the end of next year. 
 
