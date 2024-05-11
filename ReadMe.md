@@ -21,6 +21,9 @@ I love computers and learning new things. :books:
 <br>
 
 # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=franziskafurtado)](https://github.com/franziskafurtado/github-readme-stats)
+
           
           
           
