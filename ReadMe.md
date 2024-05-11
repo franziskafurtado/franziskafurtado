@@ -9,8 +9,10 @@ I'm always learning and my favorite interest areas are low-level programming, em
 
 I love computers and learning new things. :books:
 
-:two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate.
+:two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate. 
+
 <br>
+
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tortoisegit/tortoisegit-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
           
