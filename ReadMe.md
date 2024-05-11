@@ -13,5 +13,7 @@ I love computers and learning new things. :books:
 
 
 <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original-wordmark.svg" />
+
           
 
