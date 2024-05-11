@@ -10,3 +10,7 @@ I'm always learning and my favorite interest areas are low-level programming, em
 I love computers and learning new things. :books:
 
 :two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate.
+
+
+
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
