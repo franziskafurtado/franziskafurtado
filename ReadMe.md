@@ -20,10 +20,18 @@ I love computers and learning new things. :books:
 
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
+
+<br>
+
+<br>
+
+
+
 # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
+
 
           
 
