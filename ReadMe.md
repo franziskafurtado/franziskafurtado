@@ -14,4 +14,6 @@ I love computers and learning new things. :books:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 
+<i class="devicon-angularjs-plain"></i>
+          
 
