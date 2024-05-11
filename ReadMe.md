@@ -24,8 +24,6 @@ I love computers and learning new things. :books:
 
 <br>
 
-<br>
-
 
 
 # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
