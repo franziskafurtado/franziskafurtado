@@ -14,7 +14,6 @@ Hopefully I will be a computer engineer by the end of the year.
 
 I love computers and learning new things. :books:
 
-:two_hearts: 
 
 <br>
 
