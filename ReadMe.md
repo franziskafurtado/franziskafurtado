@@ -12,6 +12,6 @@ I love computers and learning new things. :books:
 :two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate.
 
 
-<img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
           
 
