@@ -14,7 +14,7 @@ Hopefully I will be a computer engineer by the end of the year.
 
 I love computers and learning new things. :books:
 
-:two_hearts: Outside of world of tech I love music, working out and I've been trying to learn how to roller skate. 
+:two_hearts: 
 
 <br>
 
