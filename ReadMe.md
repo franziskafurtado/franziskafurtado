@@ -23,6 +23,7 @@ I love computers and learning new things. :books:
 # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/franziskafurtado?cardType=github&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
 
 
           
