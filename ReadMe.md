@@ -1,5 +1,6 @@
 Welcome to my github profile!
 
+# ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
 
 I'm Franziska Furtado, a developer currently working with Front End Web Development (mostly AngularJS) and SQL (PostgreSQL). :desktop_computer:
 
