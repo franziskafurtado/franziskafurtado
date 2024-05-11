@@ -24,7 +24,6 @@ I love computers and learning new things. :books:
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/franziskafurtado?cardType=github&theme=graywhite&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
 
           
