@@ -11,8 +11,7 @@
 
 <br>
 
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=20&color=2489F7&random=false&width=435&lines=Welcome+to+my+GitHub!+;My+name+is+Franziska;I+love+computers+;and+learning+new+things)](https://git.io/typing-svg)
 
 <p style="text-align: center;" markdown="1">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
