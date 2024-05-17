@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center">
+<p style="text-align: center;" markdown="1">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
 
