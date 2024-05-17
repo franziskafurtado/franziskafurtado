@@ -10,8 +10,10 @@
 :desktop_computer: :books: 
 
 <br>
+<p align="center">
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
