@@ -10,9 +10,9 @@
 :desktop_computer: :books: 
 
 <br>
-<p align="center">
+<div align="center">
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
-</p>
+</div>
 
 
 <p style="text-align: center;" markdown="1">
