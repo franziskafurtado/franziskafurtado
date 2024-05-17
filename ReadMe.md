@@ -13,6 +13,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
 
+<p align="center">
+	<a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+</p>
+
 # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif)
 
 
