@@ -7,11 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=20&color=2489F7&random=false&width=435&lines=Welcome+to+my+GitHub!+;My+name+is+Franziska;I+love+computers+;and+learning+new+things)](https://git.io/typing-svg)
 
-[comment]: <>I'm Franziska Furtado, a developer currently working with Front End Development (mostly AngularJS/JavaScript) and SQL (PostgreSQL). :desktop_computer:
-
---Hopefully I will be a computer engineer by the end of the year. 
-
-#I love computers and learning new things. :books:
+:desktop_computer: :books: :desktop_computer: :books: :desktop_computer: :books:
 
 
 <br>
