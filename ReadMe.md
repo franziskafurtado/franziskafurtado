@@ -12,10 +12,6 @@
 
 [![Spotify](https://novatorem-6aae7i1e9-franziskafurtados.vercel/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
-
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
 <!-- # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif) -->
