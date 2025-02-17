@@ -6,7 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=20&color=2489F7&random=false&width=435&lines=Welcome+to+my+GitHub!+;My+name+is+Franziska;I+love+computers+;and+learning+new+things)](https://git.io/typing-svg)
 -->
 
-:desktop_computer: :books: 
 
 <br>
 
