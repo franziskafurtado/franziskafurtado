@@ -10,7 +10,7 @@
 
 <br>
 
-[![Spotify](https://spotify-pfsmnj6kq-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
+[![Spotify](https://spotify-pfsmnj6kq-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/Fran Fran)
 
 <br>
 
