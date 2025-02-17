@@ -10,7 +10,7 @@
 
 <br>
 
-[![Spotify](https://novatorem-6aae7i1e9-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
+[![Spotify](https://novatorem-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
