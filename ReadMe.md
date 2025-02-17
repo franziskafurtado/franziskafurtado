@@ -9,7 +9,7 @@
 
 <br>
 
-[![Spotify](https://novatorem-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya/?background_color=8b0000&border_color=ffffff)
+[![Spotify](https://novatorem-franziskafurtados-projects.vercel.app/api/spotify)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
 
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
