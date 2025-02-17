@@ -16,7 +16,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franziskafurtado&show_icons=true&theme=transparent)
+
 
 <!-- # ![snake gif](https://github.com/franziskafurtado/franziskafurtado/blob/output/github-contribution-grid-snake.gif) -->
 
