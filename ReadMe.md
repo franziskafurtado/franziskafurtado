@@ -8,14 +8,7 @@ Expertise in multiple programming languages, frameworks, 📊 requirements engin
 🏢 Arbeit Studio
 Applying Agile methodologies in a collaborative team, driving continuous improvement toward our mission.
 
-👥 Leadership & Academia
-
-Active member of UTFPR's Computer Engineering Council
-
-Former 🎓 President, Computer Science & Information Systems Academic Board
-
 🎓 Education
-
 BSc in Computer Engineering (UTFPR)  
 
 
