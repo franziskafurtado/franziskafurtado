@@ -6,13 +6,16 @@
 
 Expertise in multiple programming languages, frameworks, 📊 requirements engineering, 🎨 UX design, 📝 technical documentation, 🔌 electronics, 🖥️ embedded systems, and 🛠️ product development.
 
+
 🏢 Arbeit Studio
 
 Applying Agile methodologies in a collaborative team, driving continuous improvement toward our mission.
 
+
 🎓 Education
 
 BSc in Computer Engineering (UTFPR)  
+
 
 
 "✨ The best way to predict the future is to create it." — Peter Drucker
