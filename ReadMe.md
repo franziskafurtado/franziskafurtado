@@ -15,8 +15,9 @@ Active member of UTFPR's Computer Engineering Council
 Former 🎓 President, Computer Science & Information Systems Academic Board
 
 🎓 Education
+
 BSc in Computer Engineering (UTFPR)  
-🗣️ Languages: Portuguese (native), English (fluent), Spanish (professional working proficiency)
+
 
 "✨ The best way to predict the future is to create it." — Peter Drucker
 <!--
