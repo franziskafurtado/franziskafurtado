@@ -26,8 +26,6 @@ BSc in Computer Engineering (UTFPR)
 
 <br>
 
-[![Spotify](https://novatorem-franziskafurtados-projects.vercel.app/api/spotify/?background_color=0c1414&border_color=ffffff)](https://open.spotify.com/user/22l34lcgnnvvsquu3v3wcxrya)
-
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 
 <br>
